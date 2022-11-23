@@ -9,9 +9,15 @@ public class InputAndOutput {
 		// type identifier = new type();
 		Scanner scanner = new Scanner(System.in); // we use a scanner to ask for an argument
 		String name = scanner.nextLine(); // then in the next line in console we receive the input
-		
+
 		System.out.println("hello " + name);
 
 	}
 
 }
+
+// variables - stores some value
+// expression - evaluates to a value
+// operator - work on operands to produce a value
+// operand - objects the operator works on
+// literals - the value
