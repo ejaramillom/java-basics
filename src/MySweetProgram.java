@@ -42,5 +42,5 @@ public class MySweetProgram {
 // static - No instance of a class is needed for it to work
 // object - is an instance of a class
 
-// we we invoque java MySweetProgram in the console, we are telling the console to run
+// when we invoque java MySweetProgram in the console, we are telling the console to run
 // the 'main' method defined in the program
